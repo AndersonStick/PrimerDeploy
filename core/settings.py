@@ -17,6 +17,11 @@ ALLOWED_HOSTS = [
     'www.motospit.ecommerce.com',
     'www.motospit.ecommerce.com.',
     '.motospit.ecommerce.com',
+    'www.deployabarrerat.com',
+    'deployabarrerat.com',
+    'motospit.com.co',
+    'www.motospit.com.co'
+
 ]
 
 RENDER_EXTERNAL_HOSTNAME = os.environ.get('RENDER_EXTERNAL_HOSTNAME')
